@@ -12,5 +12,6 @@ public class Main {
         System.out.println(prorok + " " + voina);
         System.out.println(prorok.hashCode());
         System.out.println(voina.hashCode());
+        System.out.println(voina.equals(voina));
     }
 }
